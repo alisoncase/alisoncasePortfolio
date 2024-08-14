@@ -1,0 +1,90 @@
+/***** NAVBAR *****/
+
+.nav {
+    background-color: white;
+    border-radius: 0;}
+
+.nav a {
+    color: #3B3B3B;
+    text-decoration: none;
+}
+
+ .nav a:hover {
+    color: #B5B5B5;
+}
+
+.nav li{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color: #3B3B3B;
+    font-size: 25px;
+}
+
+.img-responsive{
+    width:100%;
+}
+
+/*** CARD ***/
+
+.card {
+    background-color: #fff;
+    border-color: #cccccc;
+    border-width: 1px;
+    width: 100%;
+}
+
+.card:hover {
+    border-color: #B5B5B5;
+}
+
+/*** Basic Text Styles ***/
+
+#about-world {
+    max-width: 100%;
+}
+
+.resume h3 {
+    font-weight: bold;
+}
+
+
+hr {
+    border-color: white;
+    border-width: 2px;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+    color: #3B3B3B;
+}
+
+li:h2 {
+    font-family: 'Noto Sans', sans-serif;
+    color: #3B3B3B;
+}
+
+li {
+    font-family: 'Noto Sans', sans-serif;
+    color: #3B3B3B;
+}
+
+a {
+    color: #3B3B3B;
+    text-decoration: none;
+}
+a:hover {
+    color: #B5B5B5;
+}
+
+.container{
+    padding:25px 0;
+    float: center;
+}
+
+body {
+
+    font-family: 'Noto Serif', serif;
+    background-color: white;
+    color: #3B3B3B;
+}
